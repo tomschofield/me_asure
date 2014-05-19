@@ -1,3 +1,4 @@
+//All code is license to Tom Schofield and John Bowers under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 //better to do a whole analysis based on half the time so take out time out mid analysis
 import java.util.*;
 

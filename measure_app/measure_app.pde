@@ -1,13 +1,4 @@
-
-// adapted from from Greg Borenstein's 2011 example
-// <a href="http://www.gregborenstein.com/" target="_blank" rel="nofollow">http://www.gregborenstein.com/</a>
-// <a href="https://gist.github.com/1603230" target="_blank" rel="nofollow">https://gist.github.com/1603230</a>
-//
-
-//resting state
-//
-
-
+//All code is license to Tom Schofield and John Bowers under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 import oscP5.*;
 

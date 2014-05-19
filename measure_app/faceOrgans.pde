@@ -1,3 +1,5 @@
+//All code is license to Tom Schofield and John Bowers under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
 //a class for getting the points we need and normalising them
 class FaceOrganLines {
   PVector [] pts;

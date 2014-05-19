@@ -1,3 +1,4 @@
+#All code is license to Tom Schofield and John Bowers 2014 under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 
 def extractAllPDFsInCurrentDir():

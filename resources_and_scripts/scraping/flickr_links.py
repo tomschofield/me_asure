@@ -1,3 +1,4 @@
+#All code is license to Tom Schofield and John Bowers 2014 under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 
 #import scraperwiki
@@ -21,6 +22,7 @@ search_term='portrait'
 page='1'
 per_page ='500'
 
+#with thanks to John Bowers for this function
 def locallySavePicture(url, count):
     # picture_page[-4:] extracts extension eg. .gif
     # (most image file extensions have three letters, otherwise modify)
